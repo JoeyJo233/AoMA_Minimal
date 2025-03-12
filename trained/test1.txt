@@ -1,0 +1,500 @@
+Step   0: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=-3.00, Done=False, AnchorFail=False
+Step   1: AoMA_0=0.0, AoMA_1=2.0, loc=0.0, battery=17.0 | Action=Go L1 => Reward=17.00, Done=False, AnchorFail=False
+Step   2: AoMA_0=0.0, AoMA_1=0.0, loc=1.0, battery=15.0 | Action=Go L0 => Reward=15.50, Done=False, AnchorFail=False
+Step   3: AoMA_0=0.0, AoMA_1=1.0, loc=0.0, battery=13.0 | Action=Go L1 => Reward=17.00, Done=False, AnchorFail=False
+Step   4: AoMA_0=0.0, AoMA_1=0.0, loc=1.0, battery=11.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step   5: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=9.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step   6: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=6.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step   7: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=11.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step   8: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=16.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step   9: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step  10: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=17.0 | Action=Go Home => Reward=-4.50, Done=False, AnchorFail=False
+Step  11: AoMA_0=0.0, AoMA_1=3.0, loc=2.0, battery=14.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step  12: AoMA_0=0.0, AoMA_1=4.0, loc=2.0, battery=19.0 | Action=Go L1 => Reward=11.00, Done=False, AnchorFail=False
+Step  13: AoMA_0=2.0, AoMA_1=0.0, loc=1.0, battery=15.0 | Action=Go L0 => Reward=17.00, Done=False, AnchorFail=False
+Step  14: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=13.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step  15: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=10.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step  16: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=15.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step  17: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step  18: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=17.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step  19: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step  20: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=19.0 | Action=Go L0 => Reward=-3.00, Done=False, AnchorFail=False
+Step  21: AoMA_0=0.0, AoMA_1=2.0, loc=0.0, battery=16.0 | Action=Go L1 => Reward=14.00, Done=False, AnchorFail=False
+Step  22: AoMA_0=2.0, AoMA_1=0.0, loc=1.0, battery=14.0 | Action=Go L0 => Reward=17.00, Done=False, AnchorFail=False
+Step  23: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=12.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step  24: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=9.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step  25: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step  26: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=19.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step  27: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=16.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step  28: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=13.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step  29: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=18.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step  30: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step  31: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=17.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step  32: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step  33: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=19.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step  34: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=16.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step  35: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=13.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step  36: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=18.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step  37: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step  38: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=17.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step  39: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step  40: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=19.0 | Action=Go L0 => Reward=17.00, Done=False, AnchorFail=False
+Step  41: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=16.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step  42: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=13.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step  43: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=18.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step  44: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step  45: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=17.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step  46: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step  47: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=19.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step  48: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=16.0 | Action=Go Home => Reward=-1.50, Done=False, AnchorFail=False
+Step  49: AoMA_0=1.0, AoMA_1=0.0, loc=2.0, battery=13.0 | Action=Go L0 => Reward=11.00, Done=False, AnchorFail=False
+Step  50: AoMA_0=0.0, AoMA_1=3.0, loc=0.0, battery=10.0 | Action=Go Home => Reward=-4.50, Done=False, AnchorFail=False
+Step  51: AoMA_0=0.0, AoMA_1=6.0, loc=2.0, battery=7.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step  52: AoMA_0=0.0, AoMA_1=7.0, loc=2.0, battery=12.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step  53: AoMA_0=0.0, AoMA_1=8.0, loc=2.0, battery=17.0 | Action=Go L1 => Reward=14.00, Done=False, AnchorFail=False
+Step  54: AoMA_0=0.0, AoMA_1=0.0, loc=1.0, battery=13.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step  55: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=11.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step  56: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=8.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step  57: AoMA_0=0.0, AoMA_1=1.0, loc=2.0, battery=13.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step  58: AoMA_0=0.0, AoMA_1=2.0, loc=2.0, battery=18.0 | Action=Go L1 => Reward=14.00, Done=False, AnchorFail=False
+Step  59: AoMA_0=0.0, AoMA_1=0.0, loc=1.0, battery=14.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step  60: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=12.0 | Action=Go Home => Reward=-3.00, Done=False, AnchorFail=False
+Step  61: AoMA_0=2.0, AoMA_1=0.0, loc=2.0, battery=9.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step  62: AoMA_0=3.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Go L0 => Reward=15.50, Done=False, AnchorFail=False
+Step  63: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=11.0 | Action=Go Home => Reward=-4.50, Done=False, AnchorFail=False
+Step  64: AoMA_0=0.0, AoMA_1=3.0, loc=2.0, battery=8.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step  65: AoMA_0=0.0, AoMA_1=4.0, loc=2.0, battery=13.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step  66: AoMA_0=0.0, AoMA_1=5.0, loc=2.0, battery=18.0 | Action=Go L1 => Reward=14.00, Done=False, AnchorFail=False
+Step  67: AoMA_0=0.0, AoMA_1=0.0, loc=1.0, battery=14.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step  68: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=12.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step  69: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=9.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step  70: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step  71: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=19.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step  72: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=16.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step  73: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=13.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step  74: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=18.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step  75: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step  76: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=17.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step  77: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step  78: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=19.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step  79: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=16.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step  80: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=13.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step  81: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=18.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step  82: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step  83: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=17.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step  84: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step  85: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=19.0 | Action=Go L0 => Reward=17.00, Done=False, AnchorFail=False
+Step  86: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=16.0 | Action=Go Home => Reward=-1.50, Done=False, AnchorFail=False
+Step  87: AoMA_0=0.0, AoMA_1=1.0, loc=2.0, battery=13.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step  88: AoMA_0=0.0, AoMA_1=2.0, loc=2.0, battery=18.0 | Action=Go L1 => Reward=14.00, Done=False, AnchorFail=False
+Step  89: AoMA_0=0.0, AoMA_1=0.0, loc=1.0, battery=14.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step  90: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=12.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step  91: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=9.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step  92: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step  93: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=19.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step  94: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=16.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step  95: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=13.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step  96: AoMA_0=0.0, AoMA_1=1.0, loc=2.0, battery=18.0 | Action=Go L1 => Reward=14.00, Done=False, AnchorFail=False
+Step  97: AoMA_0=0.0, AoMA_1=0.0, loc=1.0, battery=14.0 | Action=Go L0 => Reward=-3.00, Done=False, AnchorFail=False
+Step  98: AoMA_0=0.0, AoMA_1=2.0, loc=0.0, battery=12.0 | Action=Go L1 => Reward=17.00, Done=False, AnchorFail=False
+Step  99: AoMA_0=0.0, AoMA_1=0.0, loc=1.0, battery=10.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 100: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=8.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 101: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=5.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 102: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=10.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 103: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=15.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 104: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 105: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=17.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 106: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 107: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=19.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 108: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=16.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 109: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=13.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 110: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=18.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 111: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 112: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=17.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 113: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 114: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=19.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 115: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=16.0 | Action=Go Home => Reward=-4.50, Done=False, AnchorFail=False
+Step 116: AoMA_0=0.0, AoMA_1=3.0, loc=2.0, battery=13.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step 117: AoMA_0=0.0, AoMA_1=4.0, loc=2.0, battery=18.0 | Action=Go L1 => Reward=14.00, Done=False, AnchorFail=False
+Step 118: AoMA_0=0.0, AoMA_1=0.0, loc=1.0, battery=14.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 119: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=12.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 120: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=9.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 121: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 122: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=19.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 123: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=16.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 124: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=13.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 125: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=18.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 126: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 127: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=17.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 128: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 129: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=19.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 130: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=16.0 | Action=Go Home => Reward=-1.50, Done=False, AnchorFail=False
+Step 131: AoMA_0=0.0, AoMA_1=1.0, loc=2.0, battery=13.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step 132: AoMA_0=0.0, AoMA_1=2.0, loc=2.0, battery=18.0 | Action=Go L1 => Reward=14.00, Done=False, AnchorFail=False
+Step 133: AoMA_0=0.0, AoMA_1=0.0, loc=1.0, battery=14.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 134: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=12.0 | Action=Go Home => Reward=-3.00, Done=False, AnchorFail=False
+Step 135: AoMA_0=0.0, AoMA_1=2.0, loc=2.0, battery=9.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step 136: AoMA_0=0.0, AoMA_1=3.0, loc=2.0, battery=14.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step 137: AoMA_0=0.0, AoMA_1=4.0, loc=2.0, battery=19.0 | Action=Go L1 => Reward=14.00, Done=False, AnchorFail=False
+Step 138: AoMA_0=0.0, AoMA_1=0.0, loc=1.0, battery=15.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 139: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=13.0 | Action=Go Home => Reward=-3.00, Done=False, AnchorFail=False
+Step 140: AoMA_0=0.0, AoMA_1=2.0, loc=2.0, battery=10.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step 141: AoMA_0=0.0, AoMA_1=3.0, loc=2.0, battery=15.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step 142: AoMA_0=0.0, AoMA_1=4.0, loc=2.0, battery=20.0 | Action=Go L1 => Reward=14.00, Done=False, AnchorFail=False
+Step 143: AoMA_0=0.0, AoMA_1=0.0, loc=1.0, battery=16.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 144: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=14.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 145: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=11.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 146: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=16.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 147: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 148: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=17.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 149: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 150: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=19.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 151: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=16.0 | Action=Go Home => Reward=-3.00, Done=False, AnchorFail=False
+Step 152: AoMA_0=0.0, AoMA_1=2.0, loc=2.0, battery=13.0 | Action=Wait => Reward=-3.00, Done=False, AnchorFail=False
+Step 153: AoMA_0=1.0, AoMA_1=3.0, loc=2.0, battery=18.0 | Action=Go L0 => Reward=11.00, Done=False, AnchorFail=False
+Step 154: AoMA_0=0.0, AoMA_1=6.0, loc=0.0, battery=15.0 | Action=Go L1 => Reward=17.00, Done=False, AnchorFail=False
+Step 155: AoMA_0=0.0, AoMA_1=0.0, loc=1.0, battery=13.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 156: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=11.0 | Action=Go Home => Reward=-3.00, Done=False, AnchorFail=False
+Step 157: AoMA_0=2.0, AoMA_1=0.0, loc=2.0, battery=8.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step 158: AoMA_0=3.0, AoMA_1=0.0, loc=2.0, battery=13.0 | Action=Go L0 => Reward=14.00, Done=False, AnchorFail=False
+Step 159: AoMA_0=0.0, AoMA_1=1.0, loc=0.0, battery=10.0 | Action=Go Home => Reward=-4.50, Done=False, AnchorFail=False
+Step 160: AoMA_0=0.0, AoMA_1=4.0, loc=2.0, battery=7.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step 161: AoMA_0=0.0, AoMA_1=5.0, loc=2.0, battery=12.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step 162: AoMA_0=0.0, AoMA_1=6.0, loc=2.0, battery=17.0 | Action=Go L1 => Reward=14.00, Done=False, AnchorFail=False
+Step 163: AoMA_0=0.0, AoMA_1=0.0, loc=1.0, battery=13.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 164: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=11.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 165: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=8.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 166: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=13.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 167: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=18.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step 168: AoMA_0=1.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=15.50, Done=False, AnchorFail=False
+Step 169: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=17.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 170: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step 171: AoMA_0=0.0, AoMA_1=1.0, loc=2.0, battery=19.0 | Action=Go L1 => Reward=14.00, Done=False, AnchorFail=False
+Step 172: AoMA_0=0.0, AoMA_1=0.0, loc=1.0, battery=15.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 173: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=13.0 | Action=Go Home => Reward=-3.00, Done=False, AnchorFail=False
+Step 174: AoMA_0=0.0, AoMA_1=2.0, loc=2.0, battery=10.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step 175: AoMA_0=0.0, AoMA_1=3.0, loc=2.0, battery=15.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step 176: AoMA_0=0.0, AoMA_1=4.0, loc=2.0, battery=20.0 | Action=Go L1 => Reward=14.00, Done=False, AnchorFail=False
+Step 177: AoMA_0=0.0, AoMA_1=0.0, loc=1.0, battery=16.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 178: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=14.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 179: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=11.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 180: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=16.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 181: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 182: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=17.0 | Action=Go Home => Reward=-3.00, Done=False, AnchorFail=False
+Step 183: AoMA_0=0.0, AoMA_1=2.0, loc=2.0, battery=14.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step 184: AoMA_0=0.0, AoMA_1=3.0, loc=2.0, battery=19.0 | Action=Go L1 => Reward=14.00, Done=False, AnchorFail=False
+Step 185: AoMA_0=0.0, AoMA_1=0.0, loc=1.0, battery=15.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 186: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=13.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 187: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=10.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 188: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=15.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 189: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 190: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=17.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 191: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 192: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=19.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 193: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=16.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 194: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=13.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 195: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=18.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step 196: AoMA_0=1.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=15.50, Done=False, AnchorFail=False
+Step 197: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=17.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 198: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 199: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=19.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 200: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=16.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 201: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=13.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 202: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=18.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 203: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 204: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=17.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 205: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 206: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=19.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 207: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=16.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 208: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=13.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 209: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=18.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 210: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 211: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=17.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 212: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 213: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=19.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 214: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=16.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 215: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=13.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 216: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=18.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 217: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 218: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=17.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 219: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 220: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=19.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 221: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=16.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 222: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=13.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 223: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=18.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 224: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 225: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=17.0 | Action=Go Home => Reward=-1.50, Done=False, AnchorFail=False
+Step 226: AoMA_0=0.0, AoMA_1=1.0, loc=2.0, battery=14.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step 227: AoMA_0=0.0, AoMA_1=2.0, loc=2.0, battery=19.0 | Action=Go L1 => Reward=9.50, Done=False, AnchorFail=False
+Step 228: AoMA_0=3.0, AoMA_1=0.0, loc=1.0, battery=15.0 | Action=Go L0 => Reward=15.50, Done=False, AnchorFail=False
+Step 229: AoMA_0=0.0, AoMA_1=1.0, loc=0.0, battery=13.0 | Action=Go L1 => Reward=17.00, Done=False, AnchorFail=False
+Step 230: AoMA_0=0.0, AoMA_1=0.0, loc=1.0, battery=11.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 231: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=9.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 232: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=6.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step 233: AoMA_0=1.0, AoMA_1=0.0, loc=2.0, battery=11.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step 234: AoMA_0=2.0, AoMA_1=0.0, loc=2.0, battery=16.0 | Action=Go L0 => Reward=15.50, Done=False, AnchorFail=False
+Step 235: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=13.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 236: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=10.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 237: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=15.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 238: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 239: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=17.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 240: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 241: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=19.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 242: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=16.0 | Action=Go Home => Reward=-4.50, Done=False, AnchorFail=False
+Step 243: AoMA_0=0.0, AoMA_1=3.0, loc=2.0, battery=13.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step 244: AoMA_0=0.0, AoMA_1=4.0, loc=2.0, battery=18.0 | Action=Go L1 => Reward=14.00, Done=False, AnchorFail=False
+Step 245: AoMA_0=0.0, AoMA_1=0.0, loc=1.0, battery=14.0 | Action=Go L0 => Reward=18.50, Done=False, AnchorFail=False
+Step 246: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=12.0 | Action=Go Home => Reward=-4.50, Done=False, AnchorFail=False
+Step 247: AoMA_0=0.0, AoMA_1=3.0, loc=2.0, battery=9.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step 248: AoMA_0=0.0, AoMA_1=4.0, loc=2.0, battery=14.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step 249: AoMA_0=0.0, AoMA_1=5.0, loc=2.0, battery=19.0 | Action=Go L1 => Reward=14.00, Done=False, AnchorFail=False
+Step 250: AoMA_0=0.0, AoMA_1=0.0, loc=1.0, battery=15.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 251: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=13.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 252: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=10.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 253: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=15.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 254: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 255: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=17.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 256: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 257: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=19.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 258: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=16.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 259: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=13.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 260: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=18.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 261: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=12.50, Done=False, AnchorFail=False
+Step 262: AoMA_0=0.0, AoMA_1=2.0, loc=0.0, battery=17.0 | Action=Go L1 => Reward=17.00, Done=False, AnchorFail=False
+Step 263: AoMA_0=0.0, AoMA_1=0.0, loc=1.0, battery=15.0 | Action=Go L0 => Reward=17.00, Done=False, AnchorFail=False
+Step 264: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=13.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 265: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=10.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 266: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=15.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 267: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 268: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=17.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 269: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 270: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=19.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 271: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=16.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 272: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=13.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 273: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=18.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 274: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=-1.50, Done=False, AnchorFail=False
+Step 275: AoMA_0=0.0, AoMA_1=1.0, loc=0.0, battery=17.0 | Action=Go L1 => Reward=17.00, Done=False, AnchorFail=False
+Step 276: AoMA_0=0.0, AoMA_1=0.0, loc=1.0, battery=15.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 277: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=13.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 278: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=10.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step 279: AoMA_0=1.0, AoMA_1=0.0, loc=2.0, battery=15.0 | Action=Go L0 => Reward=15.50, Done=False, AnchorFail=False
+Step 280: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=12.0 | Action=Go Home => Reward=-4.50, Done=False, AnchorFail=False
+Step 281: AoMA_0=3.0, AoMA_1=0.0, loc=2.0, battery=9.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step 282: AoMA_0=4.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Go L0 => Reward=15.50, Done=False, AnchorFail=False
+Step 283: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=11.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 284: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=8.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 285: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=13.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step 286: AoMA_0=0.0, AoMA_1=1.0, loc=2.0, battery=18.0 | Action=Go L1 => Reward=14.00, Done=False, AnchorFail=False
+Step 287: AoMA_0=0.0, AoMA_1=0.0, loc=1.0, battery=14.0 | Action=Go L0 => Reward=-3.00, Done=False, AnchorFail=False
+Step 288: AoMA_0=0.0, AoMA_1=2.0, loc=0.0, battery=12.0 | Action=Go L1 => Reward=17.00, Done=False, AnchorFail=False
+Step 289: AoMA_0=0.0, AoMA_1=0.0, loc=1.0, battery=10.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 290: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=8.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 291: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=5.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 292: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=10.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 293: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=15.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 294: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=-4.50, Done=False, AnchorFail=False
+Step 295: AoMA_0=0.0, AoMA_1=3.0, loc=0.0, battery=17.0 | Action=Go L1 => Reward=17.00, Done=False, AnchorFail=False
+Step 296: AoMA_0=0.0, AoMA_1=0.0, loc=1.0, battery=15.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 297: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=13.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 298: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=10.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 299: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=15.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 300: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 301: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=17.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 302: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 303: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=19.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 304: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=16.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 305: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=13.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 306: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=18.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 307: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 308: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=17.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 309: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 310: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=19.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 311: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=16.0 | Action=Go Home => Reward=-3.00, Done=False, AnchorFail=False
+Step 312: AoMA_0=0.0, AoMA_1=2.0, loc=2.0, battery=13.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step 313: AoMA_0=0.0, AoMA_1=3.0, loc=2.0, battery=18.0 | Action=Go L1 => Reward=14.00, Done=False, AnchorFail=False
+Step 314: AoMA_0=0.0, AoMA_1=0.0, loc=1.0, battery=14.0 | Action=Go L0 => Reward=15.50, Done=False, AnchorFail=False
+Step 315: AoMA_0=0.0, AoMA_1=2.0, loc=0.0, battery=12.0 | Action=Go L1 => Reward=17.00, Done=False, AnchorFail=False
+Step 316: AoMA_0=0.0, AoMA_1=0.0, loc=1.0, battery=10.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 317: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=8.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 318: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=5.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 319: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=10.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 320: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=15.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 321: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 322: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=17.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 323: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 324: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=19.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 325: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=16.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 326: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=13.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 327: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=18.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 328: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 329: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=17.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 330: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 331: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=19.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 332: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=16.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 333: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=13.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step 334: AoMA_0=0.0, AoMA_1=1.0, loc=2.0, battery=18.0 | Action=Go L1 => Reward=14.00, Done=False, AnchorFail=False
+Step 335: AoMA_0=0.0, AoMA_1=0.0, loc=1.0, battery=14.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 336: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=12.0 | Action=Go Home => Reward=-3.00, Done=False, AnchorFail=False
+Step 337: AoMA_0=2.0, AoMA_1=0.0, loc=2.0, battery=9.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step 338: AoMA_0=3.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Go L0 => Reward=15.50, Done=False, AnchorFail=False
+Step 339: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=11.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 340: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=8.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step 341: AoMA_0=1.0, AoMA_1=0.0, loc=2.0, battery=13.0 | Action=Go L0 => Reward=15.50, Done=False, AnchorFail=False
+Step 342: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=10.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 343: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=7.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 344: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=12.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 345: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=17.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 346: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 347: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=17.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 348: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 349: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=19.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 350: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=16.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 351: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=13.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 352: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=18.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 353: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 354: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=17.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 355: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 356: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=19.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 357: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=16.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 358: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=13.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 359: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=18.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 360: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 361: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=17.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 362: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 363: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=19.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 364: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=16.0 | Action=Go Home => Reward=-1.50, Done=False, AnchorFail=False
+Step 365: AoMA_0=0.0, AoMA_1=1.0, loc=2.0, battery=13.0 | Action=Wait => Reward=-3.00, Done=False, AnchorFail=False
+Step 366: AoMA_0=1.0, AoMA_1=2.0, loc=2.0, battery=18.0 | Action=Go L0 => Reward=11.00, Done=False, AnchorFail=False
+Step 367: AoMA_0=0.0, AoMA_1=5.0, loc=0.0, battery=15.0 | Action=Go L1 => Reward=17.00, Done=False, AnchorFail=False
+Step 368: AoMA_0=0.0, AoMA_1=0.0, loc=1.0, battery=13.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 369: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=11.0 | Action=Go Home => Reward=-1.50, Done=False, AnchorFail=False
+Step 370: AoMA_0=0.0, AoMA_1=1.0, loc=2.0, battery=8.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step 371: AoMA_0=0.0, AoMA_1=2.0, loc=2.0, battery=13.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step 372: AoMA_0=0.0, AoMA_1=3.0, loc=2.0, battery=18.0 | Action=Go L1 => Reward=9.50, Done=False, AnchorFail=False
+Step 373: AoMA_0=3.0, AoMA_1=0.0, loc=1.0, battery=14.0 | Action=Go L0 => Reward=14.00, Done=False, AnchorFail=False
+Step 374: AoMA_0=0.0, AoMA_1=2.0, loc=0.0, battery=12.0 | Action=Go L1 => Reward=14.00, Done=False, AnchorFail=False
+Step 375: AoMA_0=2.0, AoMA_1=0.0, loc=1.0, battery=10.0 | Action=Go L0 => Reward=17.00, Done=False, AnchorFail=False
+Step 376: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=8.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 377: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=5.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 378: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=10.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 379: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=15.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 380: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 381: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=17.0 | Action=Go Home => Reward=-1.50, Done=False, AnchorFail=False
+Step 382: AoMA_0=0.0, AoMA_1=1.0, loc=2.0, battery=14.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step 383: AoMA_0=0.0, AoMA_1=2.0, loc=2.0, battery=19.0 | Action=Go L1 => Reward=8.00, Done=False, AnchorFail=False
+Step 384: AoMA_0=4.0, AoMA_1=0.0, loc=1.0, battery=15.0 | Action=Go L0 => Reward=17.00, Done=False, AnchorFail=False
+Step 385: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=13.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 386: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=10.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 387: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=15.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 388: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 389: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=17.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 390: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 391: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=19.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 392: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=16.0 | Action=Go Home => Reward=-4.50, Done=False, AnchorFail=False
+Step 393: AoMA_0=1.0, AoMA_1=2.0, loc=2.0, battery=13.0 | Action=Wait => Reward=-3.00, Done=False, AnchorFail=False
+Step 394: AoMA_0=2.0, AoMA_1=3.0, loc=2.0, battery=18.0 | Action=Go L0 => Reward=11.00, Done=False, AnchorFail=False
+Step 395: AoMA_0=0.0, AoMA_1=6.0, loc=0.0, battery=15.0 | Action=Go L1 => Reward=14.00, Done=False, AnchorFail=False
+Step 396: AoMA_0=2.0, AoMA_1=0.0, loc=1.0, battery=13.0 | Action=Go L0 => Reward=17.00, Done=False, AnchorFail=False
+Step 397: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=11.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 398: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=8.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 399: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=13.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 400: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=18.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 401: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 402: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=17.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 403: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 404: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=19.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 405: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=16.0 | Action=Go Home => Reward=-4.50, Done=False, AnchorFail=False
+Step 406: AoMA_0=0.0, AoMA_1=3.0, loc=2.0, battery=13.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step 407: AoMA_0=0.0, AoMA_1=4.0, loc=2.0, battery=18.0 | Action=Go L1 => Reward=14.00, Done=False, AnchorFail=False
+Step 408: AoMA_0=0.0, AoMA_1=0.0, loc=1.0, battery=14.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 409: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=12.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 410: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=9.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 411: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 412: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=19.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 413: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=16.0 | Action=Go Home => Reward=-4.50, Done=False, AnchorFail=False
+Step 414: AoMA_0=3.0, AoMA_1=0.0, loc=2.0, battery=13.0 | Action=Go L0 => Reward=15.50, Done=False, AnchorFail=False
+Step 415: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=10.0 | Action=Go Home => Reward=-4.50, Done=False, AnchorFail=False
+Step 416: AoMA_0=0.0, AoMA_1=3.0, loc=2.0, battery=7.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step 417: AoMA_0=0.0, AoMA_1=4.0, loc=2.0, battery=12.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step 418: AoMA_0=0.0, AoMA_1=5.0, loc=2.0, battery=17.0 | Action=Go L1 => Reward=14.00, Done=False, AnchorFail=False
+Step 419: AoMA_0=0.0, AoMA_1=0.0, loc=1.0, battery=13.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 420: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=11.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 421: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=8.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 422: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=13.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 423: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=18.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 424: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 425: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=17.0 | Action=Go Home => Reward=-1.50, Done=False, AnchorFail=False
+Step 426: AoMA_0=1.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Go L0 => Reward=15.50, Done=False, AnchorFail=False
+Step 427: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=11.0 | Action=Go Home => Reward=-3.00, Done=False, AnchorFail=False
+Step 428: AoMA_0=2.0, AoMA_1=0.0, loc=2.0, battery=8.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step 429: AoMA_0=3.0, AoMA_1=0.0, loc=2.0, battery=13.0 | Action=Go L0 => Reward=15.50, Done=False, AnchorFail=False
+Step 430: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=10.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 431: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=7.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 432: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=12.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step 433: AoMA_0=1.0, AoMA_1=0.0, loc=2.0, battery=17.0 | Action=Go L0 => Reward=15.50, Done=False, AnchorFail=False
+Step 434: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=14.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 435: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=11.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 436: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=16.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step 437: AoMA_0=1.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=15.50, Done=False, AnchorFail=False
+Step 438: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=17.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 439: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 440: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=19.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 441: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=16.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 442: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=13.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 443: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=18.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 444: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 445: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=17.0 | Action=Go Home => Reward=-4.50, Done=False, AnchorFail=False
+Step 446: AoMA_0=3.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Go L0 => Reward=15.50, Done=False, AnchorFail=False
+Step 447: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=11.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 448: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=8.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 449: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=13.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 450: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=18.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 451: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=-1.50, Done=False, AnchorFail=False
+Step 452: AoMA_0=0.0, AoMA_1=1.0, loc=0.0, battery=17.0 | Action=Go L1 => Reward=17.00, Done=False, AnchorFail=False
+Step 453: AoMA_0=0.0, AoMA_1=0.0, loc=1.0, battery=15.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 454: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=13.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 455: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=10.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 456: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=15.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 457: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=17.00, Done=False, AnchorFail=False
+Step 458: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=17.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 459: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 460: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=19.0 | Action=Go L0 => Reward=-1.50, Done=False, AnchorFail=False
+Step 461: AoMA_0=0.0, AoMA_1=1.0, loc=0.0, battery=16.0 | Action=Go L1 => Reward=17.00, Done=False, AnchorFail=False
+Step 462: AoMA_0=0.0, AoMA_1=0.0, loc=1.0, battery=14.0 | Action=Go L0 => Reward=17.00, Done=False, AnchorFail=False
+Step 463: AoMA_0=0.0, AoMA_1=1.0, loc=0.0, battery=12.0 | Action=Go L1 => Reward=17.00, Done=False, AnchorFail=False
+Step 464: AoMA_0=0.0, AoMA_1=0.0, loc=1.0, battery=10.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 465: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=8.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 466: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=5.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 467: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=10.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 468: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=15.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 469: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=18.50, Done=False, AnchorFail=False
+Step 470: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=17.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 471: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 472: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=19.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 473: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=16.0 | Action=Go Home => Reward=-3.00, Done=False, AnchorFail=False
+Step 474: AoMA_0=2.0, AoMA_1=0.0, loc=2.0, battery=13.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step 475: AoMA_0=3.0, AoMA_1=0.0, loc=2.0, battery=18.0 | Action=Go L0 => Reward=12.50, Done=False, AnchorFail=False
+Step 476: AoMA_0=0.0, AoMA_1=2.0, loc=0.0, battery=15.0 | Action=Go L1 => Reward=17.00, Done=False, AnchorFail=False
+Step 477: AoMA_0=0.0, AoMA_1=0.0, loc=1.0, battery=13.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 478: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=11.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 479: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=8.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 480: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=13.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 481: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=18.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 482: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 483: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=17.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 484: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=14.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 485: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=19.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 486: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=16.0 | Action=Go Home => Reward=0.00, Done=False, AnchorFail=False
+Step 487: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=13.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 488: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=18.0 | Action=Wait => Reward=0.00, Done=False, AnchorFail=False
+Step 489: AoMA_0=0.0, AoMA_1=0.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=-3.00, Done=False, AnchorFail=False
+Step 490: AoMA_0=0.0, AoMA_1=2.0, loc=0.0, battery=17.0 | Action=Go L1 => Reward=17.00, Done=False, AnchorFail=False
+Step 491: AoMA_0=0.0, AoMA_1=0.0, loc=1.0, battery=15.0 | Action=Go L0 => Reward=0.00, Done=False, AnchorFail=False
+Step 492: AoMA_0=0.0, AoMA_1=0.0, loc=0.0, battery=13.0 | Action=Go Home => Reward=-3.00, Done=False, AnchorFail=False
+Step 493: AoMA_0=0.0, AoMA_1=2.0, loc=2.0, battery=10.0 | Action=Wait => Reward=-1.50, Done=False, AnchorFail=False
+Step 494: AoMA_0=0.0, AoMA_1=3.0, loc=2.0, battery=15.0 | Action=Wait => Reward=-3.00, Done=False, AnchorFail=False
+Step 495: AoMA_0=1.0, AoMA_1=4.0, loc=2.0, battery=20.0 | Action=Go L0 => Reward=11.00, Done=False, AnchorFail=False
+Step 496: AoMA_0=0.0, AoMA_1=7.0, loc=0.0, battery=17.0 | Action=Go L1 => Reward=17.00, Done=False, AnchorFail=False
+Step 497: AoMA_0=0.0, AoMA_1=0.0, loc=1.0, battery=15.0 | Action=Go L0 => Reward=-3.00, Done=False, AnchorFail=False
+Step 498: AoMA_0=0.0, AoMA_1=2.0, loc=0.0, battery=13.0 | Action=Go L1 => Reward=17.00, Done=False, AnchorFail=False
+Step 499: AoMA_0=0.0, AoMA_1=0.0, loc=1.0, battery=11.0 | Action=Go L0 => Reward=18.50, Done=True, AnchorFail=False
